@@ -7,6 +7,7 @@
     "leaflet": "^1.5.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-html-parser": "^2.0.2",
     "react-leaflet": "^2.5.0",
     "react-scripts": "3.2.0",
     "surge": "^0.21.7"
