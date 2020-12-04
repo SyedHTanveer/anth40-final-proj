@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "html-to-react": "^1.4.5",
+    "react-html-parser": "^2.0.2"
+  }
+}
